@@ -1,7 +1,7 @@
 # CSE-416A-network-analysis-Project
 CSE 416A network analysis Project
 
-Please find the detailed codes in: https://drive.google.com/open?id=1nh7jdL5PlmgkWGbmlouOT5Wz1eLQb2N_
+Please find the detailed codes in: https://drive.google.com/drive/folders/1nh7jdL5PlmgkWGbmlouOT5Wz1eLQb2N_?usp=sharing
 
 ## Abstract
 Movie recommendation systems are becoming more important with increasing amount of user information and greater demands of user experience. One of the basic ideas of recommendation system is based on user similarity - to recommend the preferred items of similar users. In this work we aim to design and evaluate a new recommendation algorithm by modifying the traditional collaborative filtering recommendation algorithm with community detection of users from a similarity network. We also aim to try different methods of creating the similarity network by using various measures of user similarity. The database used for this project is the MovieLens database downloaded from its official website. We aim to predict the scores rated by users towards movies as the final output of our recommendation algorithm.
